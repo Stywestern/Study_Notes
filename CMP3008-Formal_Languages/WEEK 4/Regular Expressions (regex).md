@@ -1,0 +1,34 @@
+It is like maths for strings. In maths you operate on numbers and get a number, e.g.
+- 2 + 7 * 8 = 58
+And in regular expressions, you operate on symbols and strings to get symbols and strings.
+- A(ab)+ results in any string that starts with A, and has 1 or more ab substrings, like Aab, Aabab etc.
+
+Language Operators:
+- Union of language L and M, L $\cup$ M or L + M, which produce a new language that has the strings of L and M.
+- Concatenation of L and M, L.M or LM, all strings that has the for of (stringL)(stringM).
+- Kleene Closure, L*, is the union of all L0, L1, L2 etc., basically it means 0 or more of that combination of symbols. For example:
+	- Li = {w1w2...wi | w $\in$ L} 
+	- L = {0, ab}
+	- L2 = {00, 0ab, ab0, abab}
+
+NOTE: Do note that a regex will result in another language, so you can treat regex like a language and use the operations on languages as well
+
+Precedence of operations:
+0. Parentheses ()
+1. Star *
+2. Concatenation .
+3. Union +
+
+If there is a problem, where it defines a language L by constraints:
+- L = { w | w is a binary string which does not contain two consecutive 0s or two consecutive 1s anywhere}
+For questions like this think of the cases:
+- Case A: (01)*
+- Case B: (10)*
+- Case C: 0(10)*
+- Case D: 1(01)*
+The final answer will be the union of all these regex:
+- (01)* + (10)* + 0(10)* + 1(01)*
+- ??? how do you union these???
+- L = ($\epsilon$+1)(01)*($\epsilon$+0)
+- profit?
+

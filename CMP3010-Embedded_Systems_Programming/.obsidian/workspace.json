@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "b70b913775868cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "754a2e90ecfde028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d40e561e46b51c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEEK 4/Digital Input.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital Input"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c256b7609180754d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5819e2ff4c680563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e34665fc9035d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23469b6d83e1c844",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce491057c1d91503",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4cc2b557de50277",
+    "type": "split",
+    "children": [
+      {
+        "id": "9096e0ced9a9709d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350692591b9f9571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WEEK 2/Intro to Digital Logic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Intro to Digital Logic"
+            }
+          },
+          {
+            "id": "47da0f2b5c0ebc12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WEEK 2/Intro to Digital Logic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intro to Digital Logic"
+            }
+          },
+          {
+            "id": "d2056074e8063a5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7b8ecce50ffc55fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WEEK 2/Intro to Digital Logic.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Intro to Digital Logic"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5d40e561e46b51c8",
+  "lastOpenFiles": [
+    "Pasted image 20250310131750.png",
+    "Pasted image 20250310131713.png",
+    "Pasted image 20250310131421.png",
+    "Pasted image 20250305131752.png",
+    "WEEK 4/Digital Input.md",
+    "WEEK 4",
+    "WEEK 3/AVR Architecture and Properties.md",
+    "WEEK 3/ATMEGA 328 Architecture.md",
+    "WEEK 3/Arduino.md",
+    "WEEK 2/Intro to Digital Logic.md",
+    "WEEK 2/Intro to Electronics.md",
+    "WEEK 2/Basics.md",
+    "WEEK 1/Introduction.md",
+    "Pasted image 20250305131026.png",
+    "Pasted image 20250305130850.png",
+    "Pasted image 20250305130727.png",
+    "Pasted image 20250305130322.png",
+    "Pasted image 20250305130233.png",
+    "WEEK 3",
+    "Pasted image 20250224164140.png",
+    "Pasted image 20250224162136.png",
+    "WEEK 2",
+    "Untitled.md",
+    "WEEK 1",
+    "Welcome.md"
+  ]
+}

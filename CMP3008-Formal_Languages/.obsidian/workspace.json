@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "a5d0a29afeeea5d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "229f69bdd1f3dc16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c560d057e34bd59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEEK 3/Non-Determinism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Non-Determinism"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed8c4bcede3f4b50",
+    "type": "split",
+    "children": [
+      {
+        "id": "d49b0e0a63c5f7f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb9a18c8ac2c51e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "733dd782bb9165ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4f3f4d9b77454572",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b925012874ca3d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d27d60cd53fa816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba3f93ad03180e8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WEEK 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WEEK 1"
+            }
+          },
+          {
+            "id": "4af6abe82020c57e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WEEK 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from WEEK 1"
+            }
+          },
+          {
+            "id": "262a7f0262e0f208",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f064a11545ee1087",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WEEK 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of WEEK 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c560d057e34bd59b",
+  "lastOpenFiles": [
+    "WEEK 3/Equivalence of DFA & NFA.md",
+    "WEEK 3/Non-Determinism.md",
+    "WEEK 2/Regular Languages.md",
+    "WEEK 2/Finite Automata.md",
+    "WEEK 1/Automata.md",
+    "WEEK 1/Introduction.md",
+    "WEEK 1/Formal Languages.md",
+    "WEEK 4/GNFA.md",
+    "Pasted image 20250310130545.png",
+    "WEEK 4/The Relation with Automatas.md",
+    "Pasted image 20250310130244.png",
+    "Pasted image 20250310130217.png",
+    "Pasted image 20250310130147.png",
+    "WEEK 4/Regular Expressions (regex).md",
+    "WEEK 4",
+    "Pasted image 20250224140721.png",
+    "Pasted image 20250224140359.png",
+    "Pasted image 20250224132706.png",
+    "Pasted image 20250224132330.png",
+    "Pasted image 20250215162052.png",
+    "Pasted image 20250224132002.png",
+    "WEEK 3",
+    "WEEK 2",
+    "WEEK 1.md",
+    "WEEK 1",
+    "Week1-/Untitled.md",
+    "Welcome.md",
+    "Week1-",
+    "desktop.ini"
+  ]
+}

@@ -1,0 +1,10 @@
+The course will cover 3 general areas: Data Communications, Networking and Protocols.
+- Data communications deals with the transmission of signals in a reliable and efficient manner. 
+- Networking deals with the technology and architecture of the communications networks used to interconnect communicating devices. 
+- A discussion of communication protocols includes a treatment of protocol architectures as well as analysis of individual protocols at various layers of the architecture.
+
+The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point. Frequently the messages have meaning; that is they refer to or are correlated according to some system with certain physical or conceptual entities. These semantic aspects of communication are irrelevant to the engineering problem. The significant aspect is that the actual message is one selected from a set of possible messages.
+
+Sources may be discrete or non-discrete. A discrete source generates "the message, symbol by symbol. It will choose successive symbols according to certain probabilities depending, in general, on preceding choices as well as the particular symbols in question". Coding takes place at the transmitter. The source of the message does not transmit the message; the coded form of the message is what leaves the transmitting process and moves to the receiving process. The representation of the original message moves to the next process that transforms it, with the process continuing.
+
+Between the source and the channel, the data being transmitted must be encoded, that is, it is represented in some form that can be transmitted by the medium supporting the channel. Transmitting data inherently requires that a change of medium take place, as the information moves from the source to the transmitter to the channel. When a signal moves from one medium to another, it must be physically represented somewhat differently, making an encoder necessary.
