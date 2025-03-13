@@ -1,0 +1,3 @@
+1. You don't need to read attentively every word. Remember, you just need to answer the questions, nothing more. So skim over the text and then start looking for the answers.
+2. Look thoroughly through the text. Any special features such as capital letters, underlining, italics, figures, graphs and tables are likely to matter.
+3. Answer all the questions, even if you’re not sure in your answer. You don't get penalty for wrong answers, so try your luck and write the most probable answer.
