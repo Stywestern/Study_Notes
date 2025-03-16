@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ef269cd45d7a4bd",
+        "id": "a814a98ad08f6b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "4fb015bbfa2580a8",
+            "id": "5f528427fdab8788",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEEK2/Untitled.md",
+                "file": "WEEK 5/7. Noise and Channel Capacity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "7. Noise and Channel Capacity"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -162,17 +162,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4fb015bbfa2580a8",
+  "active": "5f528427fdab8788",
   "lastOpenFiles": [
-    "WEEK 1/Data Communication.md",
-    "WEEK2/Untitled.md",
-    "WEEK2",
-    "Pasted image 20250310141416.png",
-    "WEEK 1/General Overview.md",
-    "WEEK 1/Communications Model.md",
+    "Pasted image 20250316233122.png",
+    "WEEK 5/6. Data Transmission.md",
+    "WEEK 5/7. Noise and Channel Capacity.md",
+    "WEEK 5/5. Analog and Digital Data.md",
+    "Pasted image 20250316231932.png",
+    "WEEK 5/4. Spectrum and Bandwith.md",
+    "Pasted image 20250316231711.png",
+    "Pasted image 20250316231453.png",
+    "WEEK 5/3. Fourier Series.md",
+    "Pasted image 20250316231050.png",
+    "Pasted image 20250316231005.png",
+    "WEEK 5/2. Wave Concepts.md",
+    "Pasted image 20250316224250.png",
+    "WEEK 5/1. Data Transmission.md",
+    "Pasted image 20250316223310.png",
+    "Pasted image 20250316223207.png",
+    "WEEK 4/3. OSI Model Cont..md",
+    "WEEK 5",
+    "Pasted image 20250316210402.png",
+    "Pasted image 20250316205230.png",
+    "WEEK 3/2. OSI Model.md",
+    "WEEK 4/2. TCP,IP Protocol Architecture Cont..md",
+    "WEEK 3/4. OSI vs TCP,IP.md",
+    "WEEK 3/3. TCP,IP Protocol Architecture.md",
+    "WEEK 4/1. Protocols Cont..md",
+    "WEEK 4",
+    "WEEK 3/1. Protocols.md",
+    "WEEK 2/3. Packet Switching.md",
+    "WEEK 2/2. Communication Channels.md",
+    "WEEK 1/2. Communications Model.md",
+    "WEEK 1/1. General Overview.md",
+    "WEEK 1/3. Data Communication.md",
+    "sortspec.md",
+    "2025-03-15.md",
+    "WEEK 3",
+    "WEEK 2/1. Historical Review.md",
+    "WEEK 2",
     "WEEK 1",
     "Welcome.md"
   ]

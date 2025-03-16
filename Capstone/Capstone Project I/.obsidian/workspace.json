@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capstone I/Denifinition.md",
+                "file": "Capstone I/Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Denifinition"
+              "title": "Architecture"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,11 +166,11 @@
   "active": "b47b2dbd921c261b",
   "lastOpenFiles": [
     "Capstone I/Preface.md",
-    "Capstone I/Research.md",
-    "Capstone I/Architecture.md",
-    "Capstone I/Denifinition.md",
     "Capstone I/Identification.md",
+    "Capstone I/Research.md",
     "Capstone I/Conceptualization.md",
+    "Capstone I/Denifinition.md",
+    "Capstone I/Architecture.md",
     "Screenshot 2024-12-05 132321.png",
     "Screenshot 2024-12-05 132309.png",
     "Capstone I",

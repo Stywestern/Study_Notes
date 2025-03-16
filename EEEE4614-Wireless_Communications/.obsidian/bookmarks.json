@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1742064228055,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1742064228055,
+          "items": [],
+          "title": "WEEK 2"
+        },
+        {
+          "type": "group",
+          "ctime": 1742064253141,
+          "items": [],
+          "title": "WEEK 1"
+        },
+        {
+          "type": "group",
+          "ctime": 1742064253141,
+          "items": [],
+          "title": "WEEK 3"
+        },
+        {
+          "type": "file",
+          "ctime": 1742064253141,
+          "path": "Pasted image 20250310141416.png",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1742064253141,
+          "path": "Pasted image 20250315204408.png",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1742064253141,
+          "path": "Pasted image 20250315210015.png",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1742064328331,
+          "path": "sortspec.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
