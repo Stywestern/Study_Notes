@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "a5d0a29afeeea5d0",
+    "id": "3e57158a3578df33",
     "type": "split",
     "children": [
       {
-        "id": "229f69bdd1f3dc16",
+        "id": "7b9b0f12482629fd",
         "type": "tabs",
         "children": [
           {
-            "id": "c560d057e34bd59b",
+            "id": "6e733d62d2f56870",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEEK 4/3. GNFA.md",
+                "file": "WEEK 3/1. Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. GNFA"
+              "title": "1. Projects"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed8c4bcede3f4b50",
+    "id": "e93a8deb9a7aadcf",
     "type": "split",
     "children": [
       {
-        "id": "d49b0e0a63c5f7f0",
+        "id": "807f5e5021dca5d8",
         "type": "tabs",
         "children": [
           {
-            "id": "bb9a18c8ac2c51e9",
+            "id": "c407b553caf4c0d7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "733dd782bb9165ba",
+            "id": "ed936754e13363d6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "4f3f4d9b77454572",
+            "id": "0231d17cb75725d7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "1b925012874ca3d0",
+    "id": "417dd6132a18beb7",
     "type": "split",
     "children": [
       {
-        "id": "2d27d60cd53fa816",
+        "id": "c429600de71db3e8",
         "type": "tabs",
         "children": [
           {
-            "id": "ba3f93ad03180e8a",
+            "id": "3d0cf1b3abcdb8d7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEEK 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,51 +103,43 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WEEK 1"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "4af6abe82020c57e",
+            "id": "346d76e3bf8ebd44",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEEK 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WEEK 1"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "262a7f0262e0f208",
+            "id": "cd70e0f2cf349ef1",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "f064a11545ee1087",
+            "id": "baeb039614299b5f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WEEK 1.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of WEEK 1"
+              "title": "Outline"
             }
           }
         ]
@@ -168,43 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c560d057e34bd59b",
+  "active": "6e733d62d2f56870",
   "lastOpenFiles": [
-    "WEEK 4/2. The Relation with Automatas.md",
-    "WEEK 4/1. Regular Expressions (regex).md",
-    "WEEK 4/3. GNFA.md",
-    "WEEK 3/2. Equivalence of DFA & NFA.md",
-    "WEEK 3/1. Non-Determinism.md",
-    "WEEK 2/2. Regular Languages.md",
-    "WEEK 2/1. Finite Automata.md",
-    "WEEK 1/1. Introduction.md",
-    "WEEK 1/3. Automata.md",
-    "WEEK 1/2. Formal Languages.md",
-    "WEEK 5/5. Ambiguity.md",
-    "Pasted image 20250317142714.png",
-    "Pasted image 20250317142632.png",
-    "Pasted image 20250317142609.png",
-    "Pasted image 20250317142600.png",
-    "WEEK 5/4. Constructing Grammars.md",
-    "Pasted image 20250317142124.png",
-    "WEEK 5/3. Context Free Grammar.md",
-    "Pasted image 20250317141415.png",
-    "Pasted image 20250317135937.png",
-    "Pasted image 20250317135626.png",
-    "WEEK 5/2. Context Free Languages.md",
-    "WEEK 5/1. Non Regular Languages.md",
-    "Pasted image 20250317132439.png",
-    "Pasted image 20250317125107.png",
-    "WEEK 5",
-    "WEEK 4/Untitled.md",
-    "WEEK 4",
+    "WEEK 2/5. Environmental Ethics.md",
+    "WEEK 3/1. Projects.md",
     "WEEK 3",
+    "WEEK 2/4. Problem Solving Techniques.md",
+    "Pasted image 20250317162449.png",
+    "Pasted image 20250317162224.png",
+    "Pasted image 20250317161943.png",
+    "Pasted image 20250317161851.png",
+    "Pasted image 20250317161705.png",
+    "WEEK 2/3. Safety.md",
+    "WEEK 2/2. Accidents.md",
+    "WEEK 2/1. Risk.md",
+    "Pasted image 20250317155901.png",
+    "Pasted image 20250317155843.png",
+    "WEEK 1/3. Responsibility and Rights.md",
     "WEEK 2",
-    "WEEK 1.md",
+    "Pasted image 20250317155200.png",
+    "Pasted image 20250317155129.png",
+    "WEEK 1/2. Engineering Ethics.md",
+    "WEEK 1/1. Professional Engineer.md",
     "WEEK 1",
-    "Week1-/Untitled.md",
+    "Weeks 2 & 3/Risk and Safety.md",
+    "Weeks 2 & 3/The Engineering Profession.md",
+    "Weeks 4 & 5/Project Management.md",
+    "Ekran görüntüsü 2024-10-09 184859.png",
+    "Weeks 4 & 5",
     "Welcome.md",
-    "Week1-",
-    "desktop.ini"
+    "Weeks 2 & 3"
   ]
 }
