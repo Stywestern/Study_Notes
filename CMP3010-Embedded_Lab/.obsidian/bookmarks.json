@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1742897973685,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1742897977253,
+          "items": [],
+          "title": "1. Introduction"
+        },
+        {
+          "type": "group",
+          "ctime": 1742897973685,
+          "items": [],
+          "title": "3. Diodes and Transistors Exp"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

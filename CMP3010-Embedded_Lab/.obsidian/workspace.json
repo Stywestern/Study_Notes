@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9083d95e130491f4",
+    "id": "917f098a6f31a999",
     "type": "split",
     "children": [
       {
-        "id": "a814a98ad08f6b9a",
+        "id": "4e2ca978e5f743bc",
         "type": "tabs",
         "children": [
           {
-            "id": "5f528427fdab8788",
+            "id": "59ad6962b1b676a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEEK 5/7. Noise and Channel Capacity.md",
+                "file": "4. Arduino/4. Arduino Hardware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Noise and Channel Capacity"
+              "title": "4. Arduino Hardware"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e01c5da60cc83ca4",
+    "id": "b17fd04ef9b167fb",
     "type": "split",
     "children": [
       {
-        "id": "80e9373baa7e5688",
+        "id": "85d69f304b4a583d",
         "type": "tabs",
         "children": [
           {
-            "id": "d5ca0fc5db06ae1b",
+            "id": "91eaa56c39902218",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "a7f6172f5530b6fe",
+            "id": "bbcac6ae260a341b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "6dba6991f699a4a7",
+            "id": "c4089d429a2c129d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "59ec1e44f64f465b",
+    "id": "350f5cff4c1d7dda",
     "type": "split",
     "children": [
       {
-        "id": "2123cf8c13275041",
+        "id": "1e2102bdfbf868aa",
         "type": "tabs",
         "children": [
           {
-            "id": "8cbb3ca602e3a027",
+            "id": "5efc1f231c8ffa53",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sortspec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for sortspec"
             }
           },
           {
-            "id": "b415001a496352c5",
+            "id": "411b6195151048e3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sortspec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from sortspec"
             }
           },
           {
-            "id": "9f5e3ceaa6764faf",
+            "id": "63ef11b78eafe1c2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,17 +137,18 @@
             }
           },
           {
-            "id": "db9cb4f9fe655878",
+            "id": "3c5131f9ac20135f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "sortspec.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of sortspec"
             }
           }
         ]
@@ -157,55 +160,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5f528427fdab8788",
+  "active": "59ad6962b1b676a2",
   "lastOpenFiles": [
-    "Pasted image 20250316233122.png",
-    "WEEK 5/6. Data Transmission.md",
-    "WEEK 5/7. Noise and Channel Capacity.md",
-    "WEEK 5/5. Analog and Digital Data.md",
-    "Pasted image 20250316231932.png",
-    "WEEK 5/4. Spectrum and Bandwith.md",
-    "Pasted image 20250316231711.png",
-    "Pasted image 20250316231453.png",
-    "WEEK 5/3. Fourier Series.md",
-    "Pasted image 20250316231050.png",
-    "Pasted image 20250316231005.png",
-    "WEEK 5/2. Wave Concepts.md",
-    "Pasted image 20250316224250.png",
-    "WEEK 5/1. Data Transmission.md",
-    "Pasted image 20250316223310.png",
-    "Pasted image 20250316223207.png",
-    "WEEK 4/3. OSI Model Cont..md",
-    "WEEK 5",
-    "Pasted image 20250316210402.png",
-    "Pasted image 20250316205230.png",
-    "WEEK 3/2. OSI Model.md",
-    "WEEK 4/2. TCP,IP Protocol Architecture Cont..md",
-    "WEEK 3/4. OSI vs TCP,IP.md",
-    "WEEK 3/3. TCP,IP Protocol Architecture.md",
-    "WEEK 4/1. Protocols Cont..md",
-    "WEEK 4",
-    "WEEK 3/1. Protocols.md",
-    "WEEK 2/3. Packet Switching.md",
-    "WEEK 2/2. Communication Channels.md",
-    "WEEK 1/2. Communications Model.md",
-    "WEEK 1/1. General Overview.md",
-    "WEEK 1/3. Data Communication.md",
+    "Pasted image 20250325161643.png",
+    "Pasted image 20250325161524.png",
+    "4. Arduino/3. Arduino Reads From Outside.md",
+    "4. Arduino/4. Arduino Hardware.md",
+    "Pasted image 20250325155924.png",
+    "4. Arduino/2. Arduino Controls Outside Components.md",
+    "Pasted image 20250325155313.png",
+    "Pasted image 20250325155225.png",
+    "4. Arduino/1. Microcontroller Guide.md",
+    "Pasted image 20250325154416.png",
+    "3. Diodes and Transistors Exp/2. Transistors.md",
+    "4. Arduino",
+    "3. Diodes and Transistors Exp/1. Diodes.md",
+    "Pasted image 20250325134316.png",
+    "Pasted image 20250325133804.png",
+    "Pasted image 20250325133415.png",
+    "Pasted image 20250325132219.png",
     "sortspec.md",
-    "2025-03-15.md",
-    "WEEK 3",
-    "WEEK 2/1. Historical Review.md",
-    "WEEK 2",
-    "WEEK 1",
-    "Welcome.md"
+    "2. Signal Generator Exp/1. Information.md",
+    "3. Diodes and Transistors Exp",
+    "Pasted image 20250325130840.png",
+    "1. Introduction/3. Breadboard.md",
+    "2. Signal Generator Exp",
+    "1. Introduction/2. Color Coding.md",
+    "1. Introduction/1. Preliminary Information.md",
+    "Welcome.md",
+    "1. Introduction"
   ]
 }
