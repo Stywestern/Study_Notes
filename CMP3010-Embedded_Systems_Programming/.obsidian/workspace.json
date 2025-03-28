@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEEK 4/Digital Input.md",
+                "file": "WEEK 5/2. Analog Inputs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Input"
+              "title": "2. Analog Inputs"
             }
           }
         ]
@@ -170,11 +170,14 @@
   },
   "active": "5d40e561e46b51c8",
   "lastOpenFiles": [
+    "WEEK 5/1. Interrupts.md",
+    "WEEK 5/2. Analog Inputs.md",
+    "WEEK 4/Digital Input.md",
+    "WEEK 5",
     "Pasted image 20250310131750.png",
     "Pasted image 20250310131713.png",
     "Pasted image 20250310131421.png",
     "Pasted image 20250305131752.png",
-    "WEEK 4/Digital Input.md",
     "WEEK 4",
     "WEEK 3/AVR Architecture and Properties.md",
     "WEEK 3/ATMEGA 328 Architecture.md",
@@ -190,7 +193,6 @@
     "Pasted image 20250305130233.png",
     "WEEK 3",
     "Pasted image 20250224164140.png",
-    "Pasted image 20250224162136.png",
     "WEEK 2",
     "Untitled.md",
     "WEEK 1",
