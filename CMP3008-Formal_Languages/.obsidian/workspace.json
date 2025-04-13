@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEEK 4/3. GNFA.md",
+                "file": "WEEK 5/5. Ambiguity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. GNFA"
+              "title": "5. Ambiguity"
             }
           }
         ]
@@ -170,29 +170,29 @@
   },
   "active": "c560d057e34bd59b",
   "lastOpenFiles": [
+    "WEEK 5/4. Constructing Grammars.md",
+    "WEEK 5/3. Context Free Grammar.md",
+    "WEEK 5/2. Context Free Languages.md",
+    "WEEK 5/1. Non Regular Languages.md",
+    "WEEK 4/3. GNFA.md",
     "WEEK 4/2. The Relation with Automatas.md",
     "WEEK 4/1. Regular Expressions (regex).md",
-    "WEEK 4/3. GNFA.md",
     "WEEK 3/2. Equivalence of DFA & NFA.md",
     "WEEK 3/1. Non-Determinism.md",
     "WEEK 2/2. Regular Languages.md",
     "WEEK 2/1. Finite Automata.md",
-    "WEEK 1/1. Introduction.md",
     "WEEK 1/3. Automata.md",
     "WEEK 1/2. Formal Languages.md",
+    "WEEK 1/1. Introduction.md",
     "WEEK 5/5. Ambiguity.md",
     "Pasted image 20250317142714.png",
     "Pasted image 20250317142632.png",
     "Pasted image 20250317142609.png",
     "Pasted image 20250317142600.png",
-    "WEEK 5/4. Constructing Grammars.md",
     "Pasted image 20250317142124.png",
-    "WEEK 5/3. Context Free Grammar.md",
     "Pasted image 20250317141415.png",
     "Pasted image 20250317135937.png",
     "Pasted image 20250317135626.png",
-    "WEEK 5/2. Context Free Languages.md",
-    "WEEK 5/1. Non Regular Languages.md",
     "Pasted image 20250317132439.png",
     "Pasted image 20250317125107.png",
     "WEEK 5",
